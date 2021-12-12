@@ -1,0 +1,9 @@
+node_modules
+federator.log
+.DS_Store
+.idea
+
+# dotenv environment variables file
+.env
+.env.test
+.env.prod
